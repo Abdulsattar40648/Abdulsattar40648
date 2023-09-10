@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Sattar</h1>
 <h3 align="center">"Building Cross-Platform Magic with Flutter"</h3>
-<div align="right">
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
 </div>
 
@@ -10,7 +10,6 @@
 
 - 📝 I regularly read articles on [Mostly i read quotes of Imam Ali AS AND "10 Tips for Junior Flutter Developers to Excel"](Mostly i read quotes of Imam Ali AS AND "10 Tips for Junior Flutter Developers to Excel")
 
-- 📄 Know about my experiences [file:///D:/Abdul_Sattar%20(1).pdf](file:///D:/Abdul_Sattar%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
