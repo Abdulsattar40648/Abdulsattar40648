@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Sattar</h1>
 <h3 align="center">"Building Cross-Platform Magic with Flutter"</h3>
-<img align="right" alt="coding" widht="400 src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<div align="right">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
+</div>
 
 - 🌱 I’m currently learning **flutter**
 
